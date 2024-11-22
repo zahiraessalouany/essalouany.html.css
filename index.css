@@ -1,0 +1,30 @@
+body {
+    background-image: url('Images\ Esthétiques.jfif'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+img {
+    width: 200px;   
+    height: auto;    
+}
+p {
+    font-size: 20px;  
+}
+h1 {
+    color: hsla(9, 100%, 60%, 0.7);  
+    font-size: 30px;
+}
+p {
+    color: rgb(30, 128, 0);  /* La couleur du texte des paragraphes sera verte */
+    font-size: 20px;
+}
+
+.zahira {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-style: large;
+    
+}
